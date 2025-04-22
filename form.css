@@ -1,0 +1,372 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #FFFFFF;
+
+}
+header{
+    display: flex;
+    align-items: center;
+    width: 1308px;
+    height: 45.460044860839844px;
+    margin-top: 40px;
+    margin-left: 104px;
+    gap: 35rem;
+    
+}
+.img {
+    width: 247.42189025878906px;
+    height: 45.460044860839844px;
+    
+    
+}
+.nav{
+    display: flex;
+    justify-content: space-evenly;
+    gap:80px ;
+    align-items: center;
+}
+.nav a {
+    text-decoration: none;
+    color: #000000;
+}
+.nav .home a{
+    font-family: Poppins;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000;
+
+
+    
+}
+.nav .projects a {
+    font-family: Poppins;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color:#000000;
+    
+    
+}
+.nav .contact{
+    font-family: Poppins;
+    font-weight: 300;
+    font-size: 20px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000;
+    
+}
+.btn-started button{
+    width: 112px;
+    height: 38px;
+    
+    border-radius: 30px;
+    color: #ffffff;
+    background-color: #3C6DD8;
+    border: 1px solid #3C6DD8;
+    
+}
+.container{
+    width: 749px;
+    height: 932px;
+    margin-top: 107px;
+    margin-left: 406px;
+    border: 1px solid #EFF0F6;
+    background-color: #EFF0F6;
+    border-radius: 20px;
+    box-shadow: 0px 4px 4px 0px #00000040;
+
+    
+}
+.container .contain{
+    width: 531px;
+    height: 1013px;
+    
+    
+    
+}
+.contain h4{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    letter-spacing: 0px;
+    /* text-align: center;
+    vertical-align: middle; */
+    margin-left: 4rem;
+    color: #211F26;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.form-1{
+    width: 515px;
+    height: 82px;
+    margin-left: 4rem;
+    gap: 8px;
+    
+}
+/* .form-1 label{
+    font-family: Plus Jakarta Sans;
+    font-weight: 300;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000;
+    
+    
+} */
+.form-1 select{
+    width: 515px;
+    height: 45px;
+    border: 1px solid #AAAAAA;
+    gap: 11px;
+    border-radius: 15px;
+    padding-right: 21px;
+    padding-left: 21px;
+    color: #AAAAAA;
+    margin-top: 10px;
+    
+    
+}
+select option{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    
+    
+}
+.form-2{
+    margin-left: 4rem;
+}
+fieldset{
+    padding: 0;
+    border: none;
+}
+
+.form-2 legend{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000;
+    
+}
+.twoo{
+    display: flex;
+    gap:10rem;
+}
+.form-3{
+    margin-left: 4rem;
+}
+.form-3 label{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    margin-top: 30px;
+    color: #000000;
+    
+}
+.form-3 select{
+    width: 515px;
+    height: 45px;
+    border: 1px solid #AAAAAA;
+    gap: 11px;
+    border-radius: 15px;
+    padding-right: 21px;
+    padding-left: 21px;
+    color: #AAAAAA;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+    
+}
+select option{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    
+}    
+    
+.form-4{
+    margin-left: 4rem;
+}
+.form-4 legend{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000;    
+    
+}
+
+.four-1{
+    display: flex;
+    gap: 8rem;
+}
+.four-1 label input{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    
+}
+.four-2{
+    display: flex;
+    gap: 6rem;
+    margin-top: 10px;
+}
+.four-2 label input{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    
+}
+.four-3{
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.four-3 label input{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    
+}
+
+.form-5{
+    margin-left: 4rem;
+}
+.form-5 label{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #000000; 
+  
+}
+.form-5 textarea{
+    font-family: Plus Jakarta Sans;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    letter-spacing: 0%;
+    color: #AAAAAA;
+    width: 515px;
+    height: 157px;
+    border: 1px solid #EFF0F6;
+    border-radius: 15px;
+    gap: 21px;
+    padding-top: 20px;
+    padding-right: 21px;
+    padding-bottom: 20px;
+    padding-left: 21px;
+    
+}
+.contain button{
+    width: 518px;
+    height: 63px;
+    border-radius: 20px;
+    gap: 5px;
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 20px;
+    padding-left: 50px;
+    background-color: #3C6DD8E5;
+    color: #FFFFFF;
+    border: 1px solid #3C6DD8E5;
+    margin-left: 110px;
+    margin-top: 100px;
+}
+footer{
+    width: 1512px;
+    height: 522px;
+    background: #3C6DD8CC;
+    color: #ffffff;
+    margin-top: 100px;
+
+    
+}
+.foot{
+    display: flex;
+    gap: 15rem;
+    justify-content: space-around;
+    padding-top: 80px;
+}
+.footer-column{
+    display: flex;
+    gap: 6rem;
+}
+.footer-column h5{
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    
+}
+.footer-column ul li{
+    list-style-type: none;
+    
+}
+
+.footer-column ul li a {
+    text-decoration: none;
+    color: white;
+    font-family: Plus Jakarta Sans;
+    font-weight: 50;
+    font-size: 13px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    
+}
+.links{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+    margin-top: 0px;
+    margin-left: 57rem;
+}
+.copy{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+}
+
+.copy p{
+    font-family: Segoe UI;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    margin-left: 10rem;
+    
+}
+.copy .pp a{
+    color: #ffffff;
+    margin-right: 10rem;
+    
+}
