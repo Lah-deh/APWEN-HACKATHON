@@ -436,11 +436,18 @@ header{
 }
 .questionn-1 p{
     display: none;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #000000;    
 }
 
 .que-2{
     display: flex;
-    gap: 450px;
+    gap: 430px;
     margin-top: 10.43px;
     margin-bottom: 10.43px;
 
@@ -462,6 +469,13 @@ header{
 }
 .questionn-2 p{
     display: none;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #000000;    
 }
 .que-3{
     display: flex;
@@ -487,6 +501,13 @@ header{
 }
 .questionn-3 p{
     display: none;
+    font-family: Plus Jakarta Sans;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0px;
+    vertical-align: middle;
+    color: #000000;    
 }
 
 .components{
